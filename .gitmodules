@@ -10,3 +10,6 @@
 [submodule "bundle/YouCompleteMe"]
 	path = bundle/YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe
+[submodule "bundle/closetag.vim"]
+	path = bundle/closetag.vim
+	url = https://github.com/dangarbri/closetag.vim.git
