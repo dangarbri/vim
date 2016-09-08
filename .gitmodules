@@ -13,3 +13,6 @@
 [submodule "bundle/closetag.vim"]
 	path = bundle/closetag.vim
 	url = https://github.com/dangarbri/closetag.vim.git
+[submodule "bundle/vim-fugitive"]
+	path = bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
